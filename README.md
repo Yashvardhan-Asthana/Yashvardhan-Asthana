@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about technology, a dedicated learn
 
 📫 You can reach out to me via email at yashmailid01@gmail.com. Feel free to drop a message for collaboration, discussions, or just to say hi!
 
-Connect with me on [LinkedIn] (https://www.linkedin.com/in/yashvardhan-asthana/) 🤝 and check out my coding journey on LeetCode 💻.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/yashvardhan-asthana/) 🤝 and check out my coding journey on LeetCode 💻.
 
 Take a look at my projects on GitHub and let me know your thoughts! 😊
 
